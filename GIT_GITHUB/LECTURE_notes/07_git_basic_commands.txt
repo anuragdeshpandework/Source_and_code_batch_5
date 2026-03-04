@@ -5,4 +5,7 @@
 
 2 --------- RESTORING FILES -------------------
 
-git checkout -f --> this will restore your file to recent commit 
+git checkout -f --> this will all restore your file to recent commit 
+
+
+git checkout file path --> this will restore your given file to recent commit 
