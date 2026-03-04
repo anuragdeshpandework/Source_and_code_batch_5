@@ -1,3 +1,8 @@
 // GIT TERMINAL COMMANDS 
 
+------CHECKING DIFFERENCE ----
 1  git diff --> this commands shows the diference between you last commit and current changes 
+
+2 --------- RESTORING FILES -------------------
+
+git checkout -f --> this will restore your file to recent commit 
