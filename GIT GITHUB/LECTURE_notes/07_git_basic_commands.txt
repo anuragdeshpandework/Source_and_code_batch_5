@@ -1,0 +1,3 @@
+// GIT TERMINAL COMMANDS 
+
+1  git diff --> this commands shows the diference between you last commit and current changes 
