@@ -9,3 +9,7 @@ git checkout -f --> this will all restore your file to recent commit
 
 
 git checkout file path --> this will restore your given file to recent commit 
+
+-----------------STATUS & HISTORY -------------------------
+
+git status --> shows the current status of your working directory 
