@@ -28,3 +28,22 @@ git pull origin main --> this gets the latest changes form the main
 
 
 git fetch --> this will download or pull all the changes and all the branches but it will not physcially merge into code 
+
+this command will save you the problem of cloning the repo again and again 
+
+// DIFFERENCE BETWEEN GIT FETCH AND GIT PULL ORIGIN MAIN 
+
+
+
+GIT FETCH                          |  GIT PULL ORIGIN MAIN
+
+                                       get the new changes to your repo  
+
+this will download but it not merge 
+untill your persmission                                       
+
+
+
+
+// stashing --> 
+// branching --> 
