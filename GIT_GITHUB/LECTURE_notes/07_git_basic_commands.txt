@@ -13,3 +13,18 @@ git checkout file path --> this will restore your given file to recent commit
 -----------------STATUS & HISTORY -------------------------
 
 git status --> shows the current status of your working directory 
+
+
+git log --> shows the commit history (detailed log)
+
+git log -p  --> this shows the most recent commit with details 
+
+git log --oneline --> shows you a compact history of the commit  
+
+
+// --------------------fetching -------------------------
+
+git pull origin main --> this gets the latest changes form the main 
+
+
+git fetch --> this will download or pull all the changes and all the branches but it will not physcially merge into code 
