@@ -82,7 +82,7 @@ git push origin branchname --> this will push the code to your respected branch
 
 //step 3 creating a pull request 
 
-
+pull request is always rasied by git ui 
 
 
 //step 4 mereging the code 
