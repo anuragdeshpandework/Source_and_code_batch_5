@@ -84,6 +84,8 @@ git push origin branchname --> this will push the code to your respected branch
 
 pull request is always rasied by git ui 
 
+this is the most pereerf way 
+
 
 //step 4 mereging the code 
 
