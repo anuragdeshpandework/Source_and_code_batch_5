@@ -74,6 +74,8 @@ step 3 -> git checkout -b branchname                    ---> this commands creat
 
 //step 2 addind code and pushing it to the branch 
 
+git fetch 
+git pull origin main 
 git add . --> files are added and moved to stagging 
 git commit -m "message" --->files are reviewed and push git backend 
 git push origin branchname --> this will push the code to your respected branch 
