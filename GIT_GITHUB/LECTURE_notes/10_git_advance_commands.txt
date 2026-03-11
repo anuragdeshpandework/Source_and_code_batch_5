@@ -3,4 +3,6 @@
 1) git stash --> this helps you to temporaliy remove the changes you have made for allowing you to work on
 another task (another branch )   (you can bring those  chance back again )
 
+2) git stash apply --> this method is used to bring back the changes which has been removed by giot stash 
 
+3) git blame  --> shows you a detail information about the commits 
