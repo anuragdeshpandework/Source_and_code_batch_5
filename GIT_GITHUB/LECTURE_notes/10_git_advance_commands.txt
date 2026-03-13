@@ -13,3 +13,5 @@ another task (another branch )   (you can bring those  chance back again )
 
 6) git reset --hard commitid  --> this command will revert your branch or your repo to a commit which id is given 
 (-- this Dangerous commands)--> this will delete the history 
+
+7) git revert commit id --> this command will revert your barcnh or repo to a commit id  which is given by creating a new commit  
