@@ -18,6 +18,7 @@ SECTION 1: Git Fundamentals
 SECTION 2: Git Commands & Usage
 ====================================================
 8. What is the difference between git clone and git fork?
+
 9. Explain the following commands:
    - git status
    - git add
@@ -36,7 +37,10 @@ SECTION 2: Git Commands & Usage
 SECTION 3: Branching & Merging
 ====================================================
 15. What is a branch in Git?
+Branch is a copy of code where we can make changes without affetcting to the main.
+
 16. Why is branching important in real projects?
+
 17. Difference between main/master branch and feature branch.
 18. How do you create and switch branches?
 19. What is merging in Git?
