@@ -15,3 +15,6 @@ console.log(typeof student)
 console.log(typeof isStudent)
 console.log(typeof years_Of_Experience)
 console.log(typeof fruit)
+
+////////////////////////////////
+//
