@@ -36,6 +36,7 @@ console.log(Math.floor(num)) // round down and give O/P as 5
  let rollDice2= Math.floor(Math.random()*6)+1
  let total= rollDice1+rollDice2
  console.log("Roll Dice",total)
+ console.log(rollDice1 , rollDice2)
  
 
 // 6. What will be the result of the following code? Explain why.
@@ -49,7 +50,9 @@ console.log(Math.floor(randomVal * 10) + 5); //0.99*10-->9.99 & add 5 so it will
 
 //7 generate  randomBetween(10, 20) should generate a number between 10 and 20.
 //console.log(randomBetween(10, 20));
-//Math.floor(Math.random() * (max - min + 1)) + min
+//Math.floor(Math.random() * (max - min + 1)) + min //inclusively
+//Math.floor(Math.random() * (max - min - 1)) + min //exclusively
+
 console.log(Math.floor(Math.random()*(20-10+1))+10)
 
 // 8 generate a random number between 5.5-9.3
@@ -65,3 +68,5 @@ console.log(number.toFixed(2))
 let num2=32
 let return1=Math.round(num2/5)*5
 console.log(return1)
+
+//
