@@ -34,6 +34,6 @@ let num = 5.7;
  console.log(Math.ceil(num)) //output=6
  console.log(Math.floor(num)) //output =5
 
-
+   
 
 
