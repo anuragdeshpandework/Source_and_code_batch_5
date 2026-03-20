@@ -36,6 +36,4 @@ let num = 5.7;
 
 
 
- // 5. Write program  `rollDice` that simulates rolling two dice and returns their combined result.
-// Hint: Each dice roll should return a number between 1 and 6.
 
