@@ -70,6 +70,23 @@ let return1=Math.round(num2/5)*5
 console.log(return1)
 
 //Generate a random aadhar number
+let adharNum1= Math.floor(Math.random(9999-1000+1))+1000
+let adharNum2= Math.floor(Math.random(9999-1000+1))+1000
+let adharNum3= Math.floor(Math.random(9999-1000+1))+1000
+console.log("Aadhar Number=",adharNum1 , adharNum2 , adharNum3)
+
 //generate random OTP number
+console.log("OTP=",Math.floor(Math.random()*(999999-100000+1))+100000)
+
 //generate random mobile number
+let moNumber1= Math.floor(Math.random()*(99999-10000+1))+10000
+let moNumber2= Math.floor(Math.random()*(99999-10000+1))+10000
+console.log("Mobile Number=",moNumber1 , moNumber2)
+
 //generate random password (letters, number and symbols)
+let str= "1234567890!@#$%^&*ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+let password1= str[Math.floor(Math.random()*str.length)]
+let password2= str[Math.floor(Math.random()*str.length)]
+let password3= str[Math.floor(Math.random()*str.length)]
+let password4= str[Math.floor(Math.random()*str.length)]
+console.log(password1+password2+password3+password4)
