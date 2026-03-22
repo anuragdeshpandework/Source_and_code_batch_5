@@ -20,7 +20,7 @@ console.log(typeof Surname)
 let AccountBal = null
 console.log(typeof AccountBal)
 
-/*result
+/*result:
 string
 number
 boolean
