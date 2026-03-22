@@ -1,4 +1,4 @@
-//Practice - 21.03.2026
+/*/Practice - 21.03.2026
 
 let weight = "29.49"
 
@@ -30,7 +30,10 @@ const dice1 = Math.floor(Math.random()*6)+1
 const dice2 = Math.floor(Math.random()*6)+1
 
 console.log(dice1,dice2)
-console.log(dice1+dice2)
+console.log(dice1+dice2)*/
 
 // 6. What will be the result of the following code? Explain why.
 let randomVal = Math.random();
+console.log(Math.floor(randomVal * 10) + 5);
+// Output is gettng the random value 
+
