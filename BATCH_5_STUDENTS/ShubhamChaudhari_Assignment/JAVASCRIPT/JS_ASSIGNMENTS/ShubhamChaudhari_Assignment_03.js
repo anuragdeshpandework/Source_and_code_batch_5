@@ -58,7 +58,7 @@ console.log(number.toFixed(2))
 // 10. Write a program  that rounds any given number to the nearest multiple of 5.
 // Example:if 28 is given  should return 30, 32 should return 30.
 let num1=19;
-console.log( Math.round(num1 / 5) * 5);//Divide output is 3.8 roundof function convert is  4 and then 4*5 =20
+    console.log( Math.round(num1 / 5) * 5);//Divide output is 3.8 roundof function convert is  4 and then 4*5 =20
 
 let num2=16;
 console.log( Math.round(num2 / 5) * 5);
