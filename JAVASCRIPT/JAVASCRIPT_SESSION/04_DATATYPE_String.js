@@ -102,3 +102,5 @@ console.log("my\nname\nis\nsiddhant")
 //3 \" --> adding double quote in a string delcared by double quote 
  console.log(" my name is \"siddhant\" ")
 
+ 
+
