@@ -52,3 +52,6 @@ console.log(floatrandom.toFixed(1))
 let number = 1234.56789;
 
 console.log(number.toFixed(2))
+
+let numb_1 = 22
+console.log(Math.round(numb_1/5)*5)
