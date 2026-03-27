@@ -18,3 +18,4 @@
      let sym = Math.floor(Math.random()*(symbols.length))
      let number = Math.floor(Math.random()*(10-1)+1)
      console.log(`${alphabets[firstLetter].toUpperCase()}${alphabets[secondLetter]}${alphabets[thirdLetter]}${symbols[sym]}${number}`)
+     //
