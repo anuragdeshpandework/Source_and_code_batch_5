@@ -16,8 +16,8 @@ console.log(CustomName.length);
 let firstName = "Ganesh"
 let middleName = "Ramling"
 let lastName = "Ddhage"
-console.log(firstName + " " + middleName+" " + lastName) //siddhantarjungadakh
-console.log(`${firstName} ${middleName} ${lastName}`) //siddhant arjun gadakh
+console.log(firstName + " " + middleName+" " + lastName);
+console.log(`${firstName} ${middleName} ${lastName}`);
 
 // 5. Given a string `language = 'JavaScript'`, log the character at the 4th index in the string.
 let language = "JavaScript";
