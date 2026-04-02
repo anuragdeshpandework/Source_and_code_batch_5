@@ -53,6 +53,7 @@ console.log(long_string)
 let line1="I am learning JavaScript"
 let line2="It's fun to learn JavaScript!"
 console.log("I\nam\nlearning\nJavaScript\nIt's fun to learn\nJavaScript")
+console.log(`${line1} \n ${line2}`)
 //console.log((line1)"\n"(line2)) -----> How to get output with \n for declared string
 
 // 9. Write a program that declares a variable `amount = 45.85`, then uses `Math.floor()`, `Math.ceil()`, and `Math.round()` on this value and logs each result.
