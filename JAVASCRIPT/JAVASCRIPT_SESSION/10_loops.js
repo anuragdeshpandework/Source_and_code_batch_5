@@ -150,15 +150,15 @@ console.log(word_count)
 
 let pass = "1password"
 
-let hasNumber = false
+let hasNumber = false // -1
 
 for (let i = 0; i < pass.length; i++) {
     if (pass[i] >= "0" && pass[i] <= "9") {
-        hasNumber = true
+        hasNumber = true //0
     }
 }
 
-if(pass.length>=8&&hasNumber){
+if(pass.length>=8&&hasNumber===true){
 console.log("Strong Password")
 }
 else{
